@@ -1,6 +1,5 @@
 module.exports = {
-	tags: [
-		"posts"
-	],
-	"layout": "layouts/post.njk",
+	tags: ["posts"],
+	location: "Templestowe, VIC",
+	layout: "layouts/post.njk",
 };

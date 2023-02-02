@@ -1,11 +1,12 @@
 module.exports = {
-	"title": "Eleventy Base Blog v8",
-	"url": "https://example.com/",
-	"language": "en",
-	"description": "I am writing about my experiences as a naval navel-gazer.",
-	"author": {
-		"name": "Your Name Here",
-		"email": "youremailaddress@example.com",
-		"url": "https://example.com/about-me/"
-	}
-}
+	title: "Backyard Birdsite",
+	url: "https://birdsite.jacksonbates.com",
+	language: "en",
+	description:
+		"A simple journal for observations of and about birds in my local area, primarily Templestowe VIC",
+	author: {
+		name: "Jackson Bates",
+		email: "birds@jacksonbates.com",
+		url: "https://aus.social/JacksonBates",
+	},
+};
