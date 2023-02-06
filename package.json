@@ -39,5 +39,9 @@
 		"@11ty/eleventy-plugin-syntaxhighlight": "^4.2.0",
 		"luxon": "^3.2.1",
 		"markdown-it-anchor": "^8.6.6"
+	},
+	"dependencies": {
+		"@tinacms/cli": "^1.0.8",
+		"tinacms": "^1.1.5"
 	}
 }
