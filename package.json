@@ -3,7 +3,8 @@
 	"version": "8.0.0",
 	"description": "A starter repository for a blog web site using the Eleventy site generator.",
 	"scripts": {
-		"build": "npx @11ty/eleventy",
+		"build": "tinacms build && npx @11ty/eleventy",
+		"dev": "tinacms dev -c 'yarn start'",
 		"build-ghpages": "npx @11ty/eleventy --pathprefix=/eleventy-base-blog/",
 		"start": "npx @11ty/eleventy --serve --quiet",
 		"debug": "DEBUG=Eleventy* npx @11ty/eleventy",
