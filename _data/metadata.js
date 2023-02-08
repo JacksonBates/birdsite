@@ -1,12 +1,12 @@
 module.exports = {
 	title: "Backyard Birdsite",
-	url: "https://birdsite.jacksonbates.com",
+	url: "https://tagsite.jacksonbates.com",
 	language: "en",
 	description:
-		"A simple journal for observations of and about birds in my local area, primarily Templestowe VIC",
+		"A simple journal for observations of and about tags in my local area, primarily Templestowe VIC",
 	author: {
 		name: "Jackson Bates",
-		email: "birds@jacksonbates.com",
+		email: "tags@jacksonbates.com",
 		url: "https://aus.social/JacksonBates",
 	},
 };

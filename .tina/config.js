@@ -32,9 +32,22 @@ export default defineConfig({
 						required: true,
 					},
 					{
+						type: "datetime",
+						name: "date",
+						lable: "Date",
+						required: false,
+					},
+					{
 						type: "string",
 						name: "location",
 						label: "Location",
+						required: false,
+					},
+					{
+						type: "string",
+						name: "tags",
+						label: "Birds",
+						list: true,
 						required: false,
 					},
 					{

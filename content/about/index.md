@@ -2,8 +2,9 @@
 layout: layouts/base.njk
 eleventyNavigation:
   key: About
-  order: 3
+  order: 4
 ---
+
 # About
 
-A collection of amateur observations about birds, mostly local to Templestowe, VIC.
+A collection of amateur observations about tags, mostly local to Templestowe, VIC.
