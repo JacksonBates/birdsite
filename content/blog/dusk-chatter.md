@@ -19,5 +19,5 @@ It was interesting to hear, because it seemed more conversational or situational
 
 Obviously, I'm speculating wildly, but it brightened up the walk a bit trying to tune in to it and eavesdrop on them.
 
-{% image "../../public/img/cockatoo.png#a cockatoo in a tree#300,600,900" %}
+{% image "../../public/img/cockatoo.png#a cockatoo in a tree#500" %}
 
