@@ -70,12 +70,12 @@ export default defineConfig({
 										type: "string",
 										required: true,
 									},
-									{
-										name: "_value",
-										label: "alt",
-										type: "string",
-										required: true,
-									},
+									// {
+									// 	name: "_value",
+									// 	label: "alt",
+									// 	type: "string",
+									// 	required: true,
+									// },
 								],
 							},
 						],

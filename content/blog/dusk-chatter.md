@@ -2,7 +2,7 @@
 title: Dusk chatter
 tags:
   - Sulphur Crested Cockatoo
-date: '2023-02-06T13:00:00.000Z'
+date: "2023-02-06T13:00:00.000Z"
 ---
 
 It only recently occurred to me that different bird sounds and behaviours were worth paying attention to.
@@ -18,4 +18,3 @@ Coupled with that, their screeches were somewhat replaced with a two-tone 'Rraa-
 It was interesting to hear, because it seemed more conversational or situational than the usual racket. I'm imagining it's something like 'No food here, what about you?' or some other observation they're tracking together.
 
 Obviously, I'm speculating wildly, but it brightened up the walk a bit trying to tune in to it and eavesdrop on them.
-
