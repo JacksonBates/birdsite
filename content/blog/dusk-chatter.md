@@ -18,6 +18,3 @@ Coupled with that, their screeches were somewhat replaced with a two-tone 'Rraa-
 It was interesting to hear, because it seemed more conversational or situational than the usual racket. I'm imagining it's something like 'No food here, what about you?' or some other observation they're tracking together.
 
 Obviously, I'm speculating wildly, but it brightened up the walk a bit trying to tune in to it and eavesdrop on them.
-
-![A Sulphur Crested Cockatoo looking from a tree towards the viewer](<https://assets.tina.io/97f7881b-f3b2-4ced-b299-481d31c96e55/Screenshot 2023-02-01 at 10.56.32 am.png> "Sulphur Crested Cockatoo")
-
