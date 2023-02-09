@@ -55,6 +55,30 @@ export default defineConfig({
 						name: "body",
 						label: "Body",
 						isBody: true,
+						templates: [
+							{
+								name: "image",
+								label: "Image shortcode",
+								match: {
+									start: "{%",
+									end: "%}",
+								},
+								fields: [
+									{
+										name: "_value",
+										label: "uri",
+										type: "string",
+										required: true,
+									},
+									{
+										name: "_value",
+										label: "alt",
+										type: "string",
+										required: true,
+									},
+								],
+							},
+						],
 					},
 				],
 			},

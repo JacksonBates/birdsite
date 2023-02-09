@@ -4,7 +4,7 @@
 	"description": "A starter repository for a blog web site using the Eleventy site generator.",
 	"scripts": {
 		"build": "tinacms build && npx @11ty/eleventy",
-		"dev": "tinacms dev -c 'yarn start'",
+		"dev": "tinacms dev --port 9999 -c 'yarn start'",
 		"build-ghpages": "npx @11ty/eleventy --pathprefix=/eleventy-base-blog/",
 		"start": "npx @11ty/eleventy --serve --quiet",
 		"debug": "DEBUG=Eleventy* npx @11ty/eleventy",
