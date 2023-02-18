@@ -1,5 +1,5 @@
 ---
-title: Spolied by Kooks
+title: Spoiled by Kooks
 date: '2023-02-17T13:00:00.000Z'
 location: 'Westerfolds Park, Templestowe, VIC'
 tags:
